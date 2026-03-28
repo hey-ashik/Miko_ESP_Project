@@ -1,6 +1,6 @@
 # Signal - IoT Cloud Control Platform
 
-![Signal IoT Platform](https://esp.ashikone.com/IMGFolder/homepage.png)
+![Signal IoT Platform](https://esp.ashikone.com/IMGFolder/HomePage.png)
 
 **Signal** is a sophisticated, all-in-one IoT cloud platform designed specifically for ESP32 and ESP8266 devices. It enables users to control hardware from anywhere in the world without the need for complex port forwarding, static IPs, or external VPNs. With a focus on user experience and AI-driven development, Signal makes IoT accessible to both hobbyists and professionals.
 
